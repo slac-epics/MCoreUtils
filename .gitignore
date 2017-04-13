@@ -12,9 +12,6 @@ O.*/
 /html/
 /doc/
 
-# Local configuration
-*.local
-
 # IDE configuration
 /QtC-*
 .deps
