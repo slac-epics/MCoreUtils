@@ -1,3 +1,6 @@
+# Environment variables needed for SLAC
+RELEASE_SITE
+
 # Object and generated files
 O.*/
 
