@@ -11,6 +11,9 @@ O.*/
 /dbd/
 /html/
 /doc/
+exampleTop/bin/
+exampleTop/db/
+exampleTop/dbd/
 
 # IDE configuration
 /QtC-*
